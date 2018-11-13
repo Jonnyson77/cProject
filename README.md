@@ -1,2 +1,2 @@
 # microservice-test
-the project is my test project
+这是我学习git创建的仓库
